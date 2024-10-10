@@ -1,7 +1,7 @@
 {
-    "name": "Cal.com",
-    "short_name": "Cal.com",
-    "description": "Scheduling infrastructure for absolutely everyone.",
+    "name": "VanRein Meetings",
+    "short_name": "VanRein Meetings",
+    "description": "Scheduling infrastructure for VanRein compliance.",
     "icons": [
         {
             "src": "/api/logo?type=android-chrome-192",
